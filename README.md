@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 </h1>
 <p align="center">Não é a linguagem de programação que define o programador, mas sim sua lógica.</p>
 
-<h1 align="center">
+---
+
+<h3 align="center">
     <p align="center">* Tecnologias que utilizo</p>
-</h1>
+</h3>
+
 -PHP  
 -MYSQL  
 -postgresql  
@@ -30,15 +33,18 @@ Here are some ideas to get you started:
 -HTML  
 -CSS  
 -GIT  
-<h1 align="center">
+
+<h3 align="center">
     <p align="center">* Tecnologias que estou aprendendo</p>
-</h1>
+</h3>
+
 -React Native  
 -Node.js    
--Flutter    
-<h1 align="center">
+-Flutter   
+
+<h3 align="center">
     <p align="center">* Quer me conhecer mais ?</p>
-</h1>
+</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fernandoadev/)
 
