@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <h1 align="center">
     <p align="center">* Tecnologias que utilizo</p>
 </h1>
-
 -PHP  
 -MYSQL  
 -postgresql  
@@ -31,15 +30,12 @@ Here are some ideas to get you started:
 -HTML  
 -CSS  
 -GIT  
-
 <h1 align="center">
     <p align="center">* Tecnologias que estou aprendendo</p>
 </h1>
-
 -React Native  
 -Node.js    
 -Flutter    
-
 <h1 align="center">
     <p align="center">* Quer me conhecer mais ?</p>
 </h1>
@@ -48,7 +44,7 @@ Here are some ideas to get you started:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://getbionic.com.br/) 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/fernandoadev)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fernandoadev)
 
 ---
 
