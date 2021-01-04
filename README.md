@@ -11,7 +11,7 @@
 
 -PHP  
 -MYSQL  
--postgresql  
+-POSTGRESQL  
 -JAVASCRIPT  
 -HTML  
 -CSS  
