@@ -9,7 +9,8 @@
     <p align="center">* Tecnologias que utilizo</p>
 </h3>
 
--PHP  
+-PHP
+-SQL
 -MYSQL  
 -POSTGRESQL  
 -JAVASCRIPT  
@@ -23,7 +24,7 @@
 
 -React Native  
 -Node.js    
--Flutter   
+-Laravel   
 
 <h3 align="center">
     <p align="center">* Quer me conhecer mais ?</p>
