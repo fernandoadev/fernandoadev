@@ -9,7 +9,7 @@
     <p align="center">* Tecnologias que utilizo</p>
 </h3>
 
--PHP
+-PHP  
 -SQL
 -MYSQL  
 -POSTGRESQL  
