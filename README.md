@@ -10,7 +10,7 @@
 </h3>
 
 -PHP  
--SQL
+-SQL  
 -MYSQL  
 -POSTGRESQL  
 -JAVASCRIPT  
