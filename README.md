@@ -44,5 +44,5 @@
 
 
 <a href="https://github.com/fernandoadev">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fernandoadev&layout=compact&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fernandoadev&layout=compact&theme=radical&hide_border=true&locale=ptbr" />
 </a>
