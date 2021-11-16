@@ -39,7 +39,7 @@
 ---
 
 <a href="https://github.com/fernandoadev">
-<img align="center" alt="fernandoadev Github Stats" src="https://github-readme-stats.vercel.app/api?username=fernandoadev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /></a>
+<img align="center" alt="fernandoadev Github Stats" src="https://github-readme-stats.vercel.app/api?username=fernandoadev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 
 
