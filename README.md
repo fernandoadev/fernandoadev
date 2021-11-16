@@ -39,9 +39,8 @@
 ---
 
 <a href="https://github.com/fernandoadev">
-<img align="center" alt="fernandoadev Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fernandoadev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="fernandoadev Github Stats" src="https://github-readme-stats.vercel.app/api?username=fernandoadev&show_icons=true" /></a>
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoadeva&show_icons=true&theme=radical)
 
 
 <a href="https://github.com/fernandoadev">
