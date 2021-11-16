@@ -9,18 +9,18 @@
     <p align="center">* Tecnologias que utilizo</p>
 </h3>
 
--PHP -> LARAVEL 
--SQL -> MYSQL / POSTGRESQL / SQL SERVER 
--JAVASCRIPT   
--HTML 5 
--CSS 3 
--GIT -> GITHUB / GITLAB 
+-PHP -> LARAVEL  
+-SQL -> MYSQL / POSTGRESQL / SQL SERVER  
+-JAVASCRIPT    
+-HTML 5  
+-CSS 3  
+-GIT -> GITHUB / GITLAB  
 
 <h3 align="center">
     <p align="center">* Tecnologias que estou aprendendo</p>
 </h3>
 
--React 
+-React  
 -Node.js   
 
 <h3 align="center">
