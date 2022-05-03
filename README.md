@@ -77,7 +77,6 @@ Não é a linguagem de programação que define o programador, mas sim sua lógi
   - ⭐ FrameWorks (Laravel, Zend, ReactJS).
   - ⭐ Linguagens (PHP, javascript, sql).
   - ⭐ Data Base (Postgresql, Mysql, MariaDB, SqlServer).
-  - ⭐ Libs (NfePhp, Aws).
   - ⭐ Micro Services.
   - ⭐ Clean Code.
   - ⭐ Boas Praticas de Desenvolvimento.
