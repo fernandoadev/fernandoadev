@@ -1,45 +1,87 @@
-<h1 align="center">
-    <a href="http://getbionic.com.br/" target="__blank">🔗 Fernando Almeida</a>
+<h1 align='center'>
+<a href="http://getbionic.com.br/" target="__blank">🔗 Fernando Almeida</a>
 </h1>
-<p align="center">Não é a linguagem de programação que define o programador, mas sim sua lógica.</p>
 
----
+<p align='center'>
+Não é a linguagem de programação que define o programador, mas sim sua lógica
+</p>
+<br>
 
-<h3 align="center">
-    <p align="center">* Tecnologias que utilizo</p>
-</h3>
+<div align="center">
+  <a href="https://github.com/fernandoadev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoadev&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
--PHP -> LARAVEL  
--SQL -> MYSQL / POSTGRESQL / SQL SERVER  
--JAVASCRIPT    
--HTML 5  
--CSS 3  
--GIT -> GITHUB / GITLAB  
+<div><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
-<h3 align="center">
-    <p align="center">* Tecnologias que estou aprendendo</p>
-</h3>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/2PWcHRY/Screenshot-2022-03-16-at-22-02-07-Perfil-de-luis-gustavo-santarosa-pinto-akbolota-no-Instagram-77-pu.png?width=676&height=676">
+</div>
 
--React  
--Node.js   
+  ##
 
-<h3 align="center">
-    <p align="center">* Quer me conhecer mais ?</p>
-</h3>
+<div> 
+  <a href = "mailto:fernandoa.code@gmail.comm"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=m&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernandoadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fernandoadev/)
+  ![Snake animation](https://github.com/fernandoadev/fernandoadev/blob/output/github-contribution-grid-snake.svg)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://getbionic.com.br/) 
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fernandoadev)
+<p align='center'>
+  📫 Visite meu site: <a href='http://getbionic.com.br/' target='__blank'>GetBionic</a>
+</p>
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/years/GustavoSantarosa"></a>
+  <a href="#"><img src="https://badges.pufler.dev/repos/GustavoSantarosa"></a>
+  <a href="#"><img src="https://badges.pufler.dev/commits/monthly/GustavoSantarosa"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/GustavoSantarosa/GustavoSantarosa"></a>
+</p>
 
----
+<details>
+  <summary>📃 Curriculo</summary>
 
-<a href="https://github.com/fernandoadev">
-<img align="center" alt="fernandoadev Github Stats" src="https://github-readme-stats.vercel.app/api?username=fernandoadev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+  ## Educação
 
+  - 📖 **Ensino Superior - Analise e Desenvolvimento de sistemas**\
+  📍 **Fatec Americana** - Americana/SP, Brasil (andamento 4 semestre)
 
+  - 📖 **Ensino Superior - Bacharelado em educação física**\
+  📍 **Universidade Brasil** - SBO/SP, Brasil
 
-<a href="https://github.com/fernandoadev">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fernandoadev&layout=compact&theme=radical&hide_border=true" />
-</a>
+  ## Experiência
+
+  - 👨‍💻 **Desenvolvedor FullStack PHP**\
+  📆 Janeiro/2018 - Atualmente\
+  📍 **Freelance** - Brasil
+
+  - 👨‍💻 **Desenvolvedor Pleno FullStack PHP**\
+  📆 Agosto/2021 - Atualmente\
+  📍 **Qyon** - Americana/SP, Brasil
+
+  - 👨‍💻 **Desenvolvedor Junior FullStack PHP**\
+  📆 Setembro/2020 - Agosto/2021\
+  📍 **Spigo.net** - Americana/SP, Brasil
+  
+  ## Conhecimentos
+
+  - ⭐ Pacotes da Aws (cognito, SES, s3).
+  - ⭐ Git (workflow, codereview, versionamentos, releases, github, gitlab).
+  - ⭐ Metodologia Ágil (jira).
+  - ⭐ Docker.
+  - ⭐ FrameWorks (Laravel, Zend, ReactJS).
+  - ⭐ Linguagens (PHP, javascript, sql).
+  - ⭐ Data Base (Postgresql, Mysql, MariaDB, SqlServer).
+  - ⭐ Libs (NfePhp, Aws).
+  - ⭐ Micro Services.
+  - ⭐ Clean Code.
+  - ⭐ Boas Praticas de Desenvolvimento.
+  - ⭐ Rabbit MQ.
+
+</details>
