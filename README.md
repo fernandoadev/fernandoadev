@@ -20,8 +20,6 @@ Não é a linguagem de programação que define o programador, mas sim sua lógi
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/2PWcHRY/Screenshot-2022-03-16-at-22-02-07-Perfil-de-luis-gustavo-santarosa-pinto-akbolota-no-Instagram-77-pu.png?width=676&height=676">
 </div>
 
   ##
