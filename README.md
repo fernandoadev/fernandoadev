@@ -57,14 +57,18 @@ Não é a linguagem de programação que define o programador, mas sim sua lógi
   ## Experiência
 
   - 👨‍💻 **Desenvolvedor FullStack PHP**\
-  📆 Janeiro/2018 - Atualmente\
+  📆 Janeiro/2019 - Atualmente\
   📍 **Freelance** - Brasil
+  
+  - 👨‍💻 **Desenvolvedor de software**\
+  📆 Agosto/2022 - momento\
+  📍 **PJBank** - Barueri/SP, Brasil
 
-  - 👨‍💻 **Desenvolvedor Pleno FullStack PHP**\
-  📆 Agosto/2021 - Atualmente\
+  - 👨‍💻 **Desenvolvedor Web**\
+  📆 Agosto/2021 - Julho/2022\
   📍 **Qyon** - Americana/SP, Brasil
 
-  - 👨‍💻 **Desenvolvedor Junior FullStack PHP**\
+  - 👨‍💻 **Desenvolvedor Web**\
   📆 Setembro/2020 - Agosto/2021\
   📍 **Spigo.net** - Americana/SP, Brasil
   
