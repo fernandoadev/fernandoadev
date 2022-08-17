@@ -36,12 +36,12 @@ Não é a linguagem de programação que define o programador, mas sim sua lógi
 <p align='center'>
   📫 Visite meu site: <a href='http://getbionic.com.br/' target='__blank'>GetBionic</a>
 </p>
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/years/fernandoadev"></a>
   <a href="#"><img src="https://badges.pufler.dev/repos/fernandoadev"></a>
   <a href="#"><img src="https://badges.pufler.dev/commits/monthly/fernandoadev"></a>
   <a href="#"><img src="https://badges.pufler.dev/visits/fernandoadev/fernandoadev"></a>
-</p>
+</p> -->
 
 <details>
   <summary>📃 Curriculo</summary>
