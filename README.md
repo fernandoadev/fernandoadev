@@ -1,5 +1,5 @@
 <h1 align='center'>
-<a href="http://getbionic.com.br/" target="__blank">🔗 Fernando Almeida</a>teste
+<a href="http://getbionic.com.br/" target="__blank">🔗 Fernando Almeida</a>
 </h1>
 
 <p align='center'>
