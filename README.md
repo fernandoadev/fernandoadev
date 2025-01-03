@@ -53,7 +53,7 @@ Não é a linguagem de programação que define o programador, mas sim sua lógi
   📍 **Picpay** - Remoto (Brasil)
 
   - 👨‍💻 **Desenvolvedor de software**\
-  📆 Agosto/2022 - Outubro/2024
+  📆 Agosto/2022 - Outubro/2024\
   📍 **PJBank** - Remoto (Brasil)
 
   - 👨‍💻 **Desenvolvedor Web**\
