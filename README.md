@@ -13,18 +13,6 @@ Não é a linguagem de programação que define o programador, mas sim sua lógi
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoadev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Rafa-zend" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-postgresql" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rafa-mysql" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
   ##
 
 <div> 
@@ -49,7 +37,7 @@ Não é a linguagem de programação que define o programador, mas sim sua lógi
   ## Educação
 
   - 📖 **Ensino Superior - Analise e Desenvolvimento de sistemas**\
-  📍 **Fatec Americana** - Americana/SP, Brasil (andamento 4 semestre)
+  📍 **Fatec Americana** - Americana/SP, Brasil (andamento)
 
   - 📖 **Ensino Superior - Bacharelado em educação física**\
   📍 **Universidade Brasil** - SBO/SP, Brasil
@@ -58,11 +46,15 @@ Não é a linguagem de programação que define o programador, mas sim sua lógi
 
   - 👨‍💻 **Desenvolvedor FullStack PHP**\
   📆 Janeiro/2019 - Atualmente\
-  📍 **Freelance** - Brasil
-  
+  📍 **Freelance** - Remoto (Brasil)
+
   - 👨‍💻 **Desenvolvedor de software**\
-  📆 Agosto/2022 - momento\
-  📍 **PJBank** - Barueri/SP, Brasil
+  📆 Outubro/2024 - Atualmente\
+  📍 **Picpay** - Remoto (Brasil)
+
+  - 👨‍💻 **Desenvolvedor de software**\
+  📆 Agosto/2022 - Outubro/2024
+  📍 **PJBank** - Remoto (Brasil)
 
   - 👨‍💻 **Desenvolvedor Web**\
   📆 Agosto/2021 - Julho/2022\
@@ -78,8 +70,8 @@ Não é a linguagem de programação que define o programador, mas sim sua lógi
   - ⭐ Git (workflow, codereview, versionamentos, releases, github, gitlab).
   - ⭐ Metodologia Ágil (jira).
   - ⭐ Docker.
-  - ⭐ FrameWorks (Laravel, Zend, ReactJS).
-  - ⭐ Linguagens (PHP, javascript, sql).
+  - ⭐ FrameWorks (Laravel, Zend, ReactJS, Hyperf).
+  - ⭐ Linguagens (PHP, javascript, sql, nodeJS, java).
   - ⭐ Data Base (Postgresql, Mysql, MariaDB, SqlServer).
   - ⭐ Micro Services.
   - ⭐ Clean Code.
