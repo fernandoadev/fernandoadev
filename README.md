@@ -44,7 +44,7 @@ Não é a linguagem de programação que define o programador, mas sim sua lógi
 
   ## Experiência
 
-  - 👨‍💻 **Desenvolvedor FullStack PHP**\
+  - 👨‍💻 **Engenheiro de software**\
   📆 Janeiro/2019 - Atualmente\
   📍 **Freelance** - Remoto (Brasil)
 
